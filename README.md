@@ -57,7 +57,7 @@ You can create your own custom theme but they involve some work of course. Check
 - Former Chair Person, Computer Science Department, UST-Legazpi (formerly AUL)
 - Former Math & Computer Teacher, Saint Agnes Academy of Legazpi
  
-<img src="gain-font-filipino.png" width="111" align="right">
+<img src="https://641n.github.io/gain-font-filipino.png" width="111" align="right">
 
 ### Follow me
 [`twitter`](https://twitter.com/sirgain "Press Ctrl if you wish to open this link in another tab") [`facebook`](https://www.facebook.com/sirgain/ "Press Ctrl if you wish to open this link in another tab") [`Gain's nook`](http://sirgain.droppages.com/) [`Computer 9`](https://641n.github.io/computer-9/) 
